@@ -21,3 +21,11 @@ Kaggle Sales Forecasting Dataset
 
 How to Run:
 streamlit run app.py
+## 📸 Dashboard Preview
+Dashboard Overview:
+![Dashboard](screenshots/dashboard_home.png)
+Demand Forecast View:
+![Forecast](screenshots/forecast_view.png)
+Inventory Optimization View:
+![Inventory](screenshots/inventory_table.png)
+
